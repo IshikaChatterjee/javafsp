@@ -26,4 +26,4 @@ public class Abstractclass{
 
     }
 }
-//Abstract class
+//Abstract class ax
